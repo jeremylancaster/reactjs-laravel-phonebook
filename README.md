@@ -1,6 +1,7 @@
 # ReactJS Laravel Phonebook
 A really really simple ReactJS Laravel backed Phonebook
 
+## Get up and running
 * Make sure you create a database in MySQL
 
 * Update your .env details
